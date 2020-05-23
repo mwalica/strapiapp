@@ -1,3 +1,3 @@
 # Strapi application
 
-A quick description of your strapi application
+Front-end for blog React app with Strapi cms in back-end and Mongodb DB
